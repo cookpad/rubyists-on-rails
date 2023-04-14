@@ -9,13 +9,19 @@ This mail contains important information for boarding the train, so please take 
 
 ## Delivery of Tickets
 
-If you have a permanent address in Japan, we'll send your ticket by post. Please tell us your post address where to send your tickets!  
-We've attached a Google Forms link on the email sent from connpass. Form will be closed on 20 April 2023, so please don't be late!
+If you have a permanent address in Japan, we'll send your ticket by post. Please tell us your post address where to send your tickets. Otherwise, we can't deliver tickets outside of Japan, so we'll meet with you in prior to the journey; see below.
 
-**EXTREMELY IMPORTANT!!**  
+__Please find a Google Form URL on the email we sent from Connpass to submit your intention.__ The form will be closed on 20 April 2023, so please don't be late!
+
+### EXTREMELY IMPORTANT: For overseas attendee
+
 We can't deliver tickets outside of Japan. For those who don't have a permanent address in Japan, we are making arrangements so that we can hand you tickets in person, prior to the trip.
 
-Please tell us when you are coming to Tokyo (if you are) through the above form so that we can make arrangements for you! If you're joining the [Asakusa.rb Welcome Drinkup](https://asakusarb.doorkeeper.jp/events/154786), we can hand your ticket there.
+Please tell us when you are coming to Tokyo (if you are) through the above form so that we can make arrangements for you! We plan to meet with you at the following locations, based on everyone's preference:
+
+- Shinjuku station, JR New South Gate (JR 新南口)
+- Yoyogi station
+- [Asakusa.rb Welcome Drinkup](https://asakusarb.doorkeeper.jp/events/154786)
 
 Don't worry even if we can't meet before the trip - We'll find you at Shinjuku Station.
 
