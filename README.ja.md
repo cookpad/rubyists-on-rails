@@ -1,3 +1,5 @@
+[🇬🇧 English](https://github.com/cookpad/rubyists-on-rails/blob/main/README.md)
+
 # Yay! You're a Rubyist on Rails!
 
 こんにちは。  
