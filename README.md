@@ -55,3 +55,9 @@ We believe the trains depart from JR Platform 9 or 10, but please find Azusa exp
 - "特急あずさ 33号 15:00 松本" (means: Azusa express #33 for Matsumoto, departs 3:00 pm)
 
 We are looking forward to seeing you on Rubyists on Rails!
+
+## Contact
+
+sponsorships@cookpad.com
+
+For English-speakers we're going to host a Slack channel for immediate help. For details, please refer to the Google Form question.
