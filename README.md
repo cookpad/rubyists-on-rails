@@ -56,6 +56,10 @@ We believe the trains depart from JR Platform 9 or 10, but please find Azusa exp
 
 We are looking forward to seeing you on Rubyists on Rails!
 
+### Find your seat
+
+The all reserved seats are on Car# 1. Your ticket has `1号車#{n}番#{m}席` text and `n` and `m` is your seat number.
+
 ## Contact
 
 sponsorships@cookpad.com
